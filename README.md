@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**omid2805/omid2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**omid2805/omid2805** ishttps://github.com/omid2805/omid2805.git a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
